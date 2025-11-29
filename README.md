@@ -72,5 +72,7 @@ Sales and product tables helped identify top-performing and underperforming prod
 ## Contact
 
 Suchitha Kamarapu  
+
 Email: kamarapusuchitha219@gmail.com
+
 Linkedin: https://www.linkedin.com/in/suchitha-kamarapu-b4546b219/
